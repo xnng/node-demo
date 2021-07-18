@@ -1,0 +1,5 @@
+{
+  "name": "node-demo",
+  "script": "app.js",
+  "instances": "1"
+}
